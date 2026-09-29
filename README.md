@@ -2,7 +2,7 @@ ML Internship — Week 5
 
 Overview
 
-This week focuses on Advanced Learning Algorithms and their application to the YCB-Video BOP19 dataset.
+This week focuses on Advanced Learning Algorithms and their application to the YCB-Video dataset.
 
 The main topics covered are:
 
