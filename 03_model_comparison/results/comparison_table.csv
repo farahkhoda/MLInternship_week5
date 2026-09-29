@@ -1,0 +1,5 @@
+Model,Random Split Accuracy,Scene-Level Test Accuracy,Scene-Level Macro F1,Generalization Drop
+Logistic Regression,1.0000,0.2427,0.0971,0.7573
+Decision Tree,1.0000,0.2880,0.1221,0.7120
+Random Forest,1.0000,0.1973,0.1196,0.8027
+Gradient Boosting,1.0000,0.2133,0.0907,0.7867

@@ -1,0 +1,9 @@
+Model,Split,Accuracy,Macro Precision,Macro Recall,Macro F1
+Logistic Regression,Random Split,1.0000,1.0000,1.0000,1.0000
+Decision Tree,Random Split,1.0000,1.0000,1.0000,1.0000
+Random Forest,Random Split,1.0000,1.0000,1.0000,1.0000
+Gradient Boosting,Random Split,1.0000,1.0000,1.0000,1.0000
+Logistic Regression,Scene-Level,0.2427,0.7209,0.2427,0.2719
+Decision Tree,Scene-Level,0.2880,0.4703,0.2880,0.3418
+Random Forest,Scene-Level,0.1973,0.6000,0.1973,0.2870
+Gradient Boosting,Scene-Level,0.2133,0.6536,0.2133,0.2359
